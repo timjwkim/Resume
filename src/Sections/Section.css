@@ -1,0 +1,133 @@
+.Intro {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 5%;
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-bottom: 3%;
+}
+
+.Intro h3 {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+b1 {
+  font-weight: 400;
+}
+
+b2 {
+  font-size: 13px;
+}
+
+.Education {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 6%;
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-bottom: 3%;
+}
+
+.Education h3 {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.Education h1 {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.Education h2 {
+  font-weight: 400;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.Experience {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 6%;
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-bottom: 3%;
+}
+
+.Experience h3 {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.Experience h1 {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.Experience h2 {
+  font-weight: 400;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.Experience a {
+  color: black;
+}
+
+.Experience a:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+.Projects {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 6%;
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-bottom: 3%;
+}
+
+.Projects h3 {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.Projects h1 {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.Projects h2 {
+  font-weight: 400;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.Projects a {
+  color: black;
+}
+
+.Projects a:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+.Skills {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  margin-top: 6%;
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-bottom: 3%;
+}
+
+.Skills h3 {
+  font-weight: 500;
+  font-size: 20px;
+}
