@@ -1,7 +1,8 @@
 import React from 'react';
 import './Profile.css';
-import { GrGithub, GrLinkedin, GrMail } from 'react-icons/gr'
-import { AiOutlineFilePdf } from 'react-icons/ai'
+import { GrGithub, GrLinkedin, GrMail } from 'react-icons/gr';
+import { AiOutlineFilePdf } from 'react-icons/ai';
+import File from './resume.pdf';
 
 class Profile extends React.Component {
   render() {
@@ -14,7 +15,7 @@ class Profile extends React.Component {
           aspiring software engineer and web developer
         </div>
         <div className="Icons">
-          <a href="resume.pdf" target="_blank">
+          <a href={File} target="_blank" rel="noopener noreferrer">
             <AiOutlineFilePdf size="2rem" />
           </a>
           <a href="https://github.com/timjwkim" target="_blank" rel="noopener noreferrer">
